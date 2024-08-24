@@ -2,7 +2,7 @@
 name = "hr-rocket"
 version = "0.1.0"
 description = ""
-authors = ["Anthony <a.evseev@automacon.ru>"]
+authors = ["Mishanya <mishanya@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
